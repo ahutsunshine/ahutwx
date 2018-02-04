@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="mainService.asmx.cs" Class="mobileLibWebService.Service1" %>
